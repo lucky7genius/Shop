@@ -1,4 +1,7 @@
 # Shop
+
+这个项目从ssm开始重构为spring cloud Netflix系列架构，在停止Netflix停止更新后使用Dubbo Zookeeper重构。鉴于Dubbo不适合直接作为服务器框架遂使用Spring Cloud Alibaba系列重构。
+
 这是重构为服务网格版本的，从gitlab改为github。
 
 后端采用的技术
