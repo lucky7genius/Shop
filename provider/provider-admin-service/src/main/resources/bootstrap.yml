@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: provider-admin-service
+  cloud:
+    nacos:
+      config:
+        file-extension: yml
+        server-addr: nacos.xu.com:80

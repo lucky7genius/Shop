@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: message-admin-login-log
+  cloud:
+    nacos:
+      config:
+        file-extension: yml
+        server-addr: nacos.xu.com:80

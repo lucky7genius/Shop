@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: business-oauth2
+  cloud:
+    nacos:
+      config:
+        file-extension: yml
+        server-addr: nacos.xu.com:80
